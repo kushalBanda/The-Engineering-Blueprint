@@ -2,7 +2,7 @@ Memory/*
 __pycache__/*
 .DS_Store
 GEMINI.md
-AGENT.md
+AGENTS.md
 CLAUDE.md
 reCode/*
 .clinerules/byterover-rules.md
