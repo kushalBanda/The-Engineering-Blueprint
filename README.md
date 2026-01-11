@@ -3,7 +3,7 @@
 <div align="center">
 
 ![Language](https://img.shields.io/badge/Language-Python%203-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Problems Solved](https://img.shields.io/badge/Solved-14-green?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Solved-15-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-orange?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
@@ -71,6 +71,7 @@ python3 twoSum.py
 | 0009 | **Palindrome Number**                        |  🟢 Easy  |                  [Python](./LeetCode/9.%20Palindrome%20Number/palindromeNumber.py)                  | Math                 |
 | 0013 | **Roman to Integer**                         |  🟢 Easy  |                  [Python](./LeetCode/13.%20Roman%20to%20Integer/romanToInteger.py)                  | Hash Table, Math     |
 | 0015 | **3Sum**                                     | 🟡 Medium |                               [Python](./LeetCode/15.%203Sum/3Sum.py)                               | Array, Two Pointers  |
+| 0058 | **Length of Last Word**                      |  🟢 Easy  |          [Python](./LeetCode/58.%20Length%20of%20Last%20Word/lengthOfLastWord.py)           | String               |
 | 0125 | **Valid Palindrome**                         |  🟢 Easy  |                  [Python](./LeetCode/125.%20Valid%20Palindrome/validPalindrome.py)                  | Two Pointers, String |
 | 0151 | **Reverse Words in a String**                | 🟡 Medium |            [Python](./LeetCode/151.%20Reverse%20Words%20in%20a%20String/reverseWords.py)            | String, Two Pointers |
 | 0167 | **Two Sum II - Input Array Is Sorted**       | 🟡 Medium |        [Python](./LeetCode/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/twoSum.py)        | Array, Two Pointers  |
