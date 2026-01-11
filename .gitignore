@@ -4,6 +4,7 @@ __pycache__/*
 GEMINI.md
 AGENT.md
 CLAUDE.md
+reCode/*
 .clinerules/byterover-rules.md
 .kilocode/rules/byterover-rules.md
 .roo/rules/byterover-rules.md
