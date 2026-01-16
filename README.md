@@ -4,7 +4,7 @@
 
 ![Language](https://img.shields.io/badge/Language-Python%203-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Problems Solved](https://img.shields.io/badge/Solved-16-green?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Solved-17-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-orange?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
@@ -81,6 +81,7 @@ python3 twoSum.py
 | 0344 | **Reverse String**                           |  🟢 Easy  |                    [Python](./LeetCode/344.%20Reverse%20String/reverseString.py)                    | Two Pointers, String |
 | 0345 | **Reverse Vowels of a String**               |  🟢 Easy  |           [Python](./LeetCode/345.%20Reverse%20Vowels%20of%20a%20String/reverseVowels.py)           | Two Pointers, String |
 | 0605 | **Can Place Flowers**                        |  🟢 Easy  |                 [Python](./LeetCode/605.%20Can%20Place%20Flowers/canPlaceFlowers.py)                 | Array, Greedy        |
+| 0876 | **Middle of the Linked List**                |  🟢 Easy  | [Python](./LeetCode/876.%20Middle%20of%20the%20Linked%20List/middleNode.py) | Linked List, Two Pointers |
 | 1071 | **Greatest Common Divisor of Strings**       |  🟢 Easy  |       [Python](./LeetCode/1071.%20Greatest%20Common%20Divisor%20of%20Strings/gcdOfStrings.py)       | Math, String         |
 | 1431 | **Kids With the Greatest Number of Candies** |  🟢 Easy  | [Python](./LeetCode/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies/kidsWithCandies.py) | Array                |
 | 1768 | **Merge Strings Alternately**                |  🟢 Easy  |            [Python](./LeetCode/1768.%20Merge%20Strings%20Alternately/mergeAlternately.py)            | Two Pointers, String |
