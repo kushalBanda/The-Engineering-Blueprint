@@ -67,8 +67,8 @@ These patterns apply across topics and drastically cut down learning time:
 
 ## 🎯 Final Notes
 
-* Prioritize core buckets (arrays, hashing, recursion, tree/graphs, DP) first — these appear most often in FAANG and product-based interviews. ([GeeksforGeeks][1])
-* Once fundamentals are solid, tackle pattern-based sets — they generalize to unseen problems rapidly. ([LinkedIn][4])
-* Track your speed and explain thought process — interviews test clarity almost as much as correctness.
+* Prioritize core buckets (arrays, hashing, recursion, tree/graphs, DP) first these appear most often in FAANG and product-based interviews. ([GeeksforGeeks][1])
+* Once fundamentals are solid, tackle pattern-based sets they generalize to unseen problems rapidly. ([LinkedIn][4])
+* Track your speed and explain thought process interviews test clarity almost as much as correctness.
 
 ---
