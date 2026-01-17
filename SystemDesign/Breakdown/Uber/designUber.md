@@ -10,7 +10,7 @@ Uber is a ride-sharing platforms that connect passengers with drivers who offer 
 2. User should be able to request a ride based on an estimate
 3. Drivers should be able to accept/deny a request and navigate to pickup/dropoff.
 
------out of scope------
+--- Out of Scope ---
 
 - Multiple car types
 - Rating for drivers and riders
@@ -23,7 +23,7 @@ Uber is a ride-sharing platforms that connect passengers with drivers who offer 
 - Highly available outside the matching
 - Handle high throughput, sruges for peak hours or special events, 100s of thousands of requests withing a given region
 
------out of scope------
+--- Out of Scope ---
 
 - GDPR user privacy
 - Resilienc and handling system failure
