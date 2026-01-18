@@ -6,7 +6,7 @@
 ![Language](https://img.shields.io/badge/Language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Problems Solved](https://img.shields.io/badge/Solved-18-green?style=for-the-badge)
 ![Patterns](https://img.shields.io/badge/Patterns-2-blueviolet?style=for-the-badge)
-![Systems](https://img.shields.io/badge/Systems-1-ff69b4?style=for-the-badge)
+![Systems](https://img.shields.io/badge/Systems-2-ff69b4?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
 **A comprehensive repository mastering Data Structures, Algorithms, System Design, and Design Patterns.**
@@ -39,6 +39,7 @@ The codebase is organized into three primary modules, ensuring intuitive navigat
 │   ├── 15. 3Sum/
 │   └── ...
 ├── SystemDesign/              # ☁️ Distributed Systems Architecture
+│   ├── CAP Theorem/           # Fundamental Concepts: CAP Theorem
 │   └── Breakdown/
 │       └── Uber/              # Case Study: Design Uber
 ├── DesignPatterns/            # 📐 Object-Oriented Design Patterns
@@ -80,6 +81,12 @@ A collection of strictly typed, efficient solutions.
 ## ☁️ System Design
 
 Architectural breakdowns of complex distributed systems, focusing on scalability, reliability, and maintainability.
+
+### 📜 **[CAP Theorem](./SystemDesign/%20CAP%20Theorem/CAP.md)**
+Analysis of the fundamental trade-offs in distributed systems.
+- **Core Concepts:** Consistency, Availability, and Partition Tolerance.
+- **Trade-offs:** Exploring CA, AP, and CP configurations.
+- **Real-world Examples:** Insights into DynamoDB and Google Spanner.
 
 ### 🚗 **[Design Uber](./SystemDesign/Breakdown/Uber/designUber.md)**
 A comprehensive analysis of a ride-sharing platform.
