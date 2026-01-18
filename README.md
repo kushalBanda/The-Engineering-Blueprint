@@ -113,14 +113,23 @@ Mechanisms for object creation that increase flexibility and reuse of existing c
 ### Prerequisites
 - **Python 3.8+**
 - **Go 1.20+** (Optional)
+- **Java 11+** (Optional)
 
 ### Running a Solution
 Navigate to the specific directory and execute the script.
 
 ```bash
-# Run the 'Two Sum' solution
+# Run a Python solution
 cd "LeetCode/1. Two Sum"
 python3 twoSum.py
+
+# Run a Go solution
+cd "LeetCode/14. Longest Common Prefix"
+go run longestCommonPrefix.go
+
+# Run a Java solution
+cd "LeetCode/53. Maximum Subarray"
+javac maxSubArray.java && java Solution
 ```
 
 ---
