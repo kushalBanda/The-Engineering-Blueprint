@@ -13,7 +13,6 @@
 
 ## Schema Design
 
-
 Three key factors:
 
 1. Data volume - Where can data live? (single DB vs Distributed)
