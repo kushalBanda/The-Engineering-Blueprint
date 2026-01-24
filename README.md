@@ -4,7 +4,7 @@
 
 ![Language](https://img.shields.io/badge/Language-Python%203-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Problems Solved](https://img.shields.io/badge/Solved-18-green?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Solved-20-green?style=for-the-badge)
 ![Patterns](https://img.shields.io/badge/Patterns-2-blueviolet?style=for-the-badge)
 ![Systems](https://img.shields.io/badge/Systems-2-ff69b4?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
@@ -67,6 +67,7 @@ A collection of strictly typed, efficient solutions.
 | 0125 | **Valid Palindrome** | 🟢 Easy | [Python](./LeetCode/125.%20Valid%20Palindrome/validPalindrome.py) | Two Pointers, String |
 | 0151 | **Reverse Words in a String** | 🟡 Medium | [Python](./LeetCode/151.%20Reverse%20Words%20in%20a%20String/reverseWords.py) | String, Two Pointers |
 | 0167 | **Two Sum II - Input Array Is Sorted** | 🟡 Medium | [Python](./LeetCode/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/twoSum.py) | Array, Two Pointers |
+| 0217 | **Contains Duplicate** | 🟢 Easy | [Python](./LeetCode/217.%20Contains%20Duplicate/containsDuplicate.py) | Array, Hash Table |
 | 0238 | **Product of Array Except Self** | 🟡 Medium | [Python](./LeetCode/238.%20Product%20of%20Array%20Except%20Self/productExceptSelf.py) | Array, Prefix Sum |
 | 0344 | **Reverse String** | 🟢 Easy | [Python](./LeetCode/344.%20Reverse%20String/reverseString.py) | Two Pointers, String |
 | 0345 | **Reverse Vowels of a String** | 🟢 Easy | [Python](./LeetCode/345.%20Reverse%20Vowels%20of%20a%20String/reverseVowels.py) | Two Pointers, String |
