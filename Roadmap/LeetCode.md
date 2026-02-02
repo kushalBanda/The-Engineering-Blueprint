@@ -33,6 +33,14 @@ These built-in study plans are excellent structured practice sets:
 
 ---
 
+## 🏢 Company-Wise Problem Sets
+
+| **Resource** | **Description** |
+| --- | --- |
+| [LeetCode Company-Wise Problems](https://github.com/liquidslr/leetcode-company-wise-problems) | A curated collection of LeetCode problems organized by company (Google, Amazon, Meta, etc.). Useful for targeted interview preparation when you know which company you're interviewing with. |
+
+---
+
 ## 🧠 How to Use This Roadmap
 
 1. **Begin with basics:** Arrays, Linked Lists, Hashing, Two Pointers.
