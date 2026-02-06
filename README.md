@@ -4,7 +4,7 @@
 
 ![Language](https://img.shields.io/badge/Language-Python%203-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Problems Solved](https://img.shields.io/badge/Solved-21-green?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Solved-22-green?style=for-the-badge)
 ![Patterns](https://img.shields.io/badge/Patterns-2-blueviolet?style=for-the-badge)
 ![Systems](https://img.shields.io/badge/Systems-2-ff69b4?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
