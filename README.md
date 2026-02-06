@@ -67,6 +67,7 @@ A collection of strictly typed, efficient solutions.
 | 0121 | **Best Time to Buy and Sell Stock** | 🟢 Easy | [Python](./LeetCode/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/maxProfit.py) | Array, Dynamic Programming |
 | 0125 | **Valid Palindrome** | 🟢 Easy | [Python](./LeetCode/125.%20Valid%20Palindrome/validPalindrome.py) | Two Pointers, String |
 | 0128 | **Longest Consecutive Sequence** | 🟡 Medium | [Python](./LeetCode/128.%20Longest%20Consecutive%20Sequence/longestConsecutive.py) | Array, Hash Table |
+| 0136 | **Single Number** | 🟢 Easy | [Python](./LeetCode/136.%20Single%20Number/singleNumber.py), [TypeScript](./LeetCode/136.%20Single%20Number/singleNumber.ts) | Array, Hash Table, Bit Manipulation |
 | 0151 | **Reverse Words in a String** | 🟡 Medium | [Python](./LeetCode/151.%20Reverse%20Words%20in%20a%20String/reverseWords.py) | String, Two Pointers |
 | 0167 | **Two Sum II - Input Array Is Sorted** | 🟡 Medium | [Python](./LeetCode/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/twoSum.py) | Array, Two Pointers |
 | 0169 | **Majority Element** | 🟢 Easy | [Python](./LeetCode/169.%20Majority%20Element/majorityElement.py) | Array, Hash Table |
