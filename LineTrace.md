@@ -1,9 +1,9 @@
 # LineTrace Codebase Analysis
 
 ### File Structure Summary
-- Total Files: 140
-- Total Directories: 63
-- File Extensions: .md: 15, .png: 82, .py: 39, .java: 1, .go: 2
+- Total Files: 164
+- Total Directories: 74
+- File Extensions: .md: 16, .png: 95, .py: 45, .java: 1, .go: 2, .ts: 3, .sql: 1
 
 ### Directory Tree
 ```
@@ -19,6 +19,9 @@
    │  │  ├── majorityElement.py
    │  │  ├── majorityElement.png
    │  │  └── majorElement_2.py
+   │  ├── 3. Longest Substring Without Repeating Characters
+   │  │  ├── lengthOfLongestSubstring.png
+   │  │  └── lengthOfLongestSubstring.py
    │  ├── 345. Reverse Vowels of a String
    │  │  ├── reverseVowels.png
    │  │  └── reverseVowels.py
@@ -45,9 +48,20 @@
    │  ├── 680. Valid Palindrome II
    │  │  ├── validPalindrome.py
    │  │  └── validPalindrome.png
+   │  ├── 1249. Minimum Remove to Make Valid Parentheses
+   │  │  ├── minRemoveToMakeValid.png
+   │  │  ├── minRemoveToMakeValid.ts
+   │  │  └── minRemoveToMakeValid.py
    │  ├── 217. Contains Duplicate
    │  │  ├── containsDuplicate.png
    │  │  └── containsDuplicate.py
+   │  ├── 175. Combine Two Tables
+   │  │  ├── combineTwoTables.png
+   │  │  └── combineTwoTables.sql
+   │  ├── 136. Single Number
+   │  │  ├── singleNumber.png
+   │  │  ├── singleNumber.py
+   │  │  └── singleNumber.ts
    │  ├── 605. Can Place Flowers
    │  │  ├── canPlaceFlowers.py
    │  │  └── canPlaceFlowers.png
@@ -67,6 +81,9 @@
    │  ├── 1071. Greatest Common Divisor of Strings
    │  │  ├── gcdOfStrings.py
    │  │  └── gcdOfStrings.png
+   │  ├── 43. Multiply Strings 
+   │  │  ├── multiply.py
+   │  │  └── multiply.png
    │  ├── 238. Product of Array Except Self
    │  │  ├── productExceptSelf.png
    │  │  └── productExceptSelf.py
@@ -76,18 +93,36 @@
    │  ├── 128. Longest Consecutive Sequence
    │  │  ├── longestConsecutive.py
    │  │  └── longestConsecutive.png
+   │  ├── 5. Longest Palindromic Substring
+   │  │  ├── longestPalindrome.py
+   │  │  └── longestPalindrome.png
    │  ├── 876. Middle of the Linked List
    │  │  ├── middleNode.py
    │  │  └── middleNode.png
    │  ├── 13. Roman to Integer
    │  │  ├── romanToInteger.py
    │  │  └── romanToInteger.png
+   │  ├── 88. Merge Sorted Array
+   │  │  ├── merge.py
+   │  │  ├── merge.png
+   │  │  └── merge.ts
    │  ├── 1431. Kids With the Greatest Number of Candies
    │  │  ├── kidsWithCandies.py
    │  │  └── kidsWithCandies.png
    │  └── 125. Valid Palindrome
    │    ├── validPalindrome.py
    │    └── validPalindrome.png
+  ├── ML System Design
+   │  ├── Bot Detection
+   │  │  ├── botDetection.md
+   │  │  └── assets
+   │  │    ├── Modelling (Part-2).png
+   │  │    ├── High Level.png
+   │  │    ├── Data and Features.png
+   │  │    ├── Inference & Evaluation.png
+   │  │    ├── InitialFlow.png
+   │  │    └── Modelling (Part-1).png
+   │  └── Harmful Content Detection
   ├── reCode
    │  ├── 169. Majority Element
    │  │  ├── majorityElement.py
