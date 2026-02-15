@@ -4,7 +4,7 @@
 
 ![Language](https://img.shields.io/badge/Language-Python%203-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Problems Solved](https://img.shields.io/badge/Solved-29-green?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Solved-31-green?style=for-the-badge)
 ![Patterns](https://img.shields.io/badge/Patterns-2-blueviolet?style=for-the-badge)
 ![Systems](https://img.shields.io/badge/Systems-2-ff69b4?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
@@ -68,6 +68,7 @@ A collection of strictly typed, efficient solutions.
 | 0043 | **Multiply Strings** | 🟡 Medium | [Python](./LeetCode/43.%20Multiply%20Strings%20/multiply.py) | Math, String, Simulation |
 | 0053 | **Maximum Subarray** | 🟡 Medium | [Python](./LeetCode/53.%20Maximum%20Subarray/maxSubArray.py), [Java](./LeetCode/53.%20Maximum%20Subarray/maxSubArray.java) | Array, Dynamic Programming, Divide and Conquer |
 | 0058 | **Length of Last Word** | 🟢 Easy | [Python](./LeetCode/58.%20Length%20of%20Last%20Word/lengthOfLastWord.py), [Go](./LeetCode/58.%20Length%20of%20Last%20Word/lengthOfLastWord.go) | String |
+| 0080 | **Remove Duplicates from Sorted Array II** | 🟡 Medium | [Python](./LeetCode/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II/removeDuplicates.py) | Array, Two Pointers |
 | 0088 | **Merge Sorted Array** | 🟢 Easy | [Python](./LeetCode/88.%20Merge%20Sorted%20Array/merge.py), [TypeScript](./LeetCode/88.%20Merge%20Sorted%20Array/merge.ts) | Array, Two Pointers, Sorting |
 | 0121 | **Best Time to Buy and Sell Stock** | 🟢 Easy | [Python](./LeetCode/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/maxProfit.py) | Array, Dynamic Programming |
 | 0125 | **Valid Palindrome** | 🟢 Easy | [Python](./LeetCode/125.%20Valid%20Palindrome/validPalindrome.py) | Two Pointers, String |
@@ -81,6 +82,7 @@ A collection of strictly typed, efficient solutions.
 | 0238 | **Product of Array Except Self** | 🟡 Medium | [Python](./LeetCode/238.%20Product%20of%20Array%20Except%20Self/productExceptSelf.py) | Array, Prefix Sum |
 | 0344 | **Reverse String** | 🟢 Easy | [Python](./LeetCode/344.%20Reverse%20String/reverseString.py) | Two Pointers, String |
 | 0345 | **Reverse Vowels of a String** | 🟢 Easy | [Python](./LeetCode/345.%20Reverse%20Vowels%20of%20a%20String/reverseVowels.py) | Two Pointers, String |
+| 0392 | **Is Subsequence** | 🟢 Easy | [Python](./LeetCode/392.%20Is%20Subsequence/isSubsequence.py) | Two Pointers, String, Dynamic Programming |
 | 0560 | **Subarray Sum Equals K** | 🟡 Medium | [Python](./LeetCode/560.%20Subarray%20Sum%20Equals%20K/subarraySum.py) | Array, Hash Table, Prefix Sum |
 | 0605 | **Can Place Flowers** | 🟢 Easy | [Python](./LeetCode/605.%20Can%20Place%20Flowers/canPlaceFlowers.py) | Array, Greedy |
 | 0680 | **Valid Palindrome II** | 🟢 Easy | [Python](./LeetCode/680.%20Valid%20Palindrome%20II/validPalindrome.py) | String, Two Pointers |
