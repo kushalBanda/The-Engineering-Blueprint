@@ -4,7 +4,7 @@
 
 ![Language](https://img.shields.io/badge/Language-Python%203-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Problems Solved](https://img.shields.io/badge/Solved-35-green?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Solved-37-green?style=for-the-badge)
 ![Patterns](https://img.shields.io/badge/Patterns-2-blueviolet?style=for-the-badge)
 ![Systems](https://img.shields.io/badge/Systems-2-ff69b4?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
@@ -71,6 +71,7 @@ A collection of strictly typed, efficient solutions.
 | 0058 | **Length of Last Word** | 🟢 Easy | [Python](./LeetCode/58.%20Length%20of%20Last%20Word/lengthOfLastWord.py), [Go](./LeetCode/58.%20Length%20of%20Last%20Word/lengthOfLastWord.go) | String |
 | 0080 | **Remove Duplicates from Sorted Array II** | 🟡 Medium | [Python](./LeetCode/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II/removeDuplicates.py) | Array, Two Pointers |
 | 0088 | **Merge Sorted Array** | 🟢 Easy | [Python](./LeetCode/88.%20Merge%20Sorted%20Array/merge.py), [TypeScript](./LeetCode/88.%20Merge%20Sorted%20Array/merge.ts) | Array, Two Pointers, Sorting |
+| 0104 | **Maximum Depth of Binary Tree** | 🟢 Easy | [Python](./LeetCode/104.%20Maximum%20Depth%20of%20Binary%20Tree/maxDepth.py) | Tree, DFS, BFS, Binary Tree |
 | 0121 | **Best Time to Buy and Sell Stock** | 🟢 Easy | [Python](./LeetCode/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/maxProfit.py) | Array, Dynamic Programming |
 | 0125 | **Valid Palindrome** | 🟢 Easy | [Python](./LeetCode/125.%20Valid%20Palindrome/validPalindrome.py) | Two Pointers, String |
 | 0128 | **Longest Consecutive Sequence** | 🟡 Medium | [Python](./LeetCode/128.%20Longest%20Consecutive%20Sequence/longestConsecutive.py) | Array, Hash Table |
@@ -81,6 +82,7 @@ A collection of strictly typed, efficient solutions.
 | 0175 | **Combine Two Tables** | 🟢 Easy | [SQL](./LeetCode/175.%20Combine%20Two%20Tables/combineTwoTables.sql) | Database |
 | 0205 | **Isomorphic Strings** | 🟢 Easy | [Python](./LeetCode/205.%20Isomorphic%20Strings/isIsomorphic.py) | Hash Table, String |
 | 0217 | **Contains Duplicate** | 🟢 Easy | [Python](./LeetCode/217.%20Contains%20Duplicate/containsDuplicate.py) | Array, Hash Table |
+| 0228 | **Summary Ranges** | 🟢 Easy | [Python](./LeetCode/228.%20Summary%20Ranges/summaryRanges.py) | Array |
 | 0238 | **Product of Array Except Self** | 🟡 Medium | [Python](./LeetCode/238.%20Product%20of%20Array%20Except%20Self/productExceptSelf.py) | Array, Prefix Sum |
 | 0290 | **Word Pattern** | 🟢 Easy | [Python](./LeetCode/290.%20Word%20Pattern/wordPattern.py) | Hash Table, String |
 | 0344 | **Reverse String** | 🟢 Easy | [Python](./LeetCode/344.%20Reverse%20String/reverseString.py) | Two Pointers, String |
