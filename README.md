@@ -4,7 +4,7 @@
 
 ![Language](https://img.shields.io/badge/Language-Python%203-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Problems Solved](https://img.shields.io/badge/Solved-38-green?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Solved-39-green?style=for-the-badge)
 ![Patterns](https://img.shields.io/badge/Patterns-2-blueviolet?style=for-the-badge)
 ![Systems](https://img.shields.io/badge/Systems-2-ff69b4?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
@@ -80,6 +80,7 @@ A collection of strictly typed, efficient solutions.
 | 0167 | **Two Sum II - Input Array Is Sorted** | 🟡 Medium | [Python](./LeetCode/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/twoSum.py) | Array, Two Pointers |
 | 0169 | **Majority Element** | 🟢 Easy | [Python](./LeetCode/169.%20Majority%20Element/majorityElement.py) | Array, Hash Table |
 | 0175 | **Combine Two Tables** | 🟢 Easy | [SQL](./LeetCode/175.%20Combine%20Two%20Tables/combineTwoTables.sql) | Database |
+| 0202 | **Happy Number** | 🟢 Easy | [Python](./LeetCode/202.%20Happy%20Number/isHappy.py) | Hash Table, Math, Two Pointers |
 | 0205 | **Isomorphic Strings** | 🟢 Easy | [Python](./LeetCode/205.%20Isomorphic%20Strings/isIsomorphic.py) | Hash Table, String |
 | 0217 | **Contains Duplicate** | 🟢 Easy | [Python](./LeetCode/217.%20Contains%20Duplicate/containsDuplicate.py) | Array, Hash Table |
 | 0228 | **Summary Ranges** | 🟢 Easy | [Python](./LeetCode/228.%20Summary%20Ranges/summaryRanges.py) | Array |
