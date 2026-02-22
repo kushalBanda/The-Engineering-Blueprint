@@ -85,6 +85,7 @@ A collection of strictly typed, efficient solutions.
 | 0202 | **Happy Number** | 🟢 Easy | [Python](./LeetCode/202.%20Happy%20Number/isHappy.py) | Hash Table, Math, Two Pointers |
 | 0205 | **Isomorphic Strings** | 🟢 Easy | [Python](./LeetCode/205.%20Isomorphic%20Strings/isIsomorphic.py) | Hash Table, String |
 | 0217 | **Contains Duplicate** | 🟢 Easy | [Python](./LeetCode/217.%20Contains%20Duplicate/containsDuplicate.py) | Array, Hash Table |
+| 0219 | **Contains Duplicate II** | 🟢 Easy | [Python](./LeetCode/219.%20Contains%20Duplicate%20II/containsNearbyDuplicate.py) | Array, Hash Table, Sliding Window |
 | 0228 | **Summary Ranges** | 🟢 Easy | [Python](./LeetCode/228.%20Summary%20Ranges/summaryRanges.py) | Array |
 | 0238 | **Product of Array Except Self** | 🟡 Medium | [Python](./LeetCode/238.%20Product%20of%20Array%20Except%20Self/productExceptSelf.py) | Array, Prefix Sum |
 | 0242 | **Valid Anagram** | 🟢 Easy | [Python](./LeetCode/242.%20Valid%20Anagram/isAnagram.py) | Hash Table, String, Sorting |
