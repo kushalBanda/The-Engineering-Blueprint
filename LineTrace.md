@@ -1,9 +1,9 @@
 # LineTrace Codebase Analysis
 
 ### File Structure Summary
-- Total Files: 201
-- Total Directories: 92
-- File Extensions: .md: 16, .png: 113, .py: 64, .java: 1, .go: 2, .ts: 3, .sql: 1
+- Total Files: 203
+- Total Directories: 93
+- File Extensions: .md: 16, .png: 114, .py: 65, .java: 1, .go: 2, .ts: 3, .sql: 1
 
 ### Directory Tree
 ```
@@ -46,6 +46,9 @@
    │  ├── 104. Maximum Depth of Binary Tree
    │  │  ├── maxDepth.py
    │  │  └── maxDepth.png
+   │  ├── 700. Search in a Binary Search Tree
+   │  │  ├── searchBST.png
+   │  │  └── searchBST.py
    │  ├── 1. Two Sum
    │  │  ├── twoSum.png
    │  │  └── twoSum.py
