@@ -1,9 +1,9 @@
 # LineTrace Codebase Analysis
 
 ### File Structure Summary
-- Total Files: 164
-- Total Directories: 74
-- File Extensions: .md: 16, .png: 95, .py: 45, .java: 1, .go: 2, .ts: 3, .sql: 1
+- Total Files: 201
+- Total Directories: 92
+- File Extensions: .md: 16, .png: 113, .py: 64, .java: 1, .go: 2, .ts: 3, .sql: 1
 
 ### Directory Tree
 ```
@@ -15,10 +15,14 @@
    │  ├── 15. 3Sum
    │  │  ├── 3Sum.png
    │  │  └── 3Sum.py
+   │  ├── 27. Remove Element
+   │  │  ├── removeElement.py
+   │  │  └── removeElement.png
    │  ├── 169. Majority Element
    │  │  ├── majorityElement.py
    │  │  ├── majorityElement.png
-   │  │  └── majorElement_2.py
+   │  │  ├── majorElement_2.py
+   │  │  └── majorElement_3.py
    │  ├── 3. Longest Substring Without Repeating Characters
    │  │  ├── lengthOfLongestSubstring.png
    │  │  └── lengthOfLongestSubstring.py
@@ -33,31 +37,61 @@
    │  │  ├── lengthOfLastWord.png
    │  │  ├── lengthOfLastWord.py
    │  │  └── lengthOfLastWord.go
+   │  ├── 228. Summary Ranges
+   │  │  ├── summaryRanges.py
+   │  │  └── summaryRanges.png
    │  ├── 167. Two Sum II - Input Array Is Sorted
    │  │  ├── twoSum.png
    │  │  └── twoSum.py
+   │  ├── 104. Maximum Depth of Binary Tree
+   │  │  ├── maxDepth.py
+   │  │  └── maxDepth.png
    │  ├── 1. Two Sum
    │  │  ├── twoSum.png
    │  │  └── twoSum.py
+   │  ├── 111. Minimum Depth of Binary Tree
+   │  │  ├── minDepth.py
+   │  │  └── minDepth.png
+   │  ├── 202. Happy Number
+   │  │  ├── isHappy.py
+   │  │  └── isHappy.png
    │  ├── 9. Palindrome Number
    │  │  ├── palindromeNumber.png
    │  │  └── palindromeNumber.py
    │  ├── 344. Reverse String
    │  │  ├── reverseString.py
    │  │  └── reverseString.png
+   │  ├── 392. Is Subsequence
+   │  │  ├── isSubsequence.png
+   │  │  └── isSubsequence.py
    │  ├── 680. Valid Palindrome II
    │  │  ├── validPalindrome.py
    │  │  └── validPalindrome.png
+   │  ├── 20. Valid Parentheses
+   │  │  ├── isValid.png
+   │  │  └── isValid.py
    │  ├── 1249. Minimum Remove to Make Valid Parentheses
    │  │  ├── minRemoveToMakeValid.png
    │  │  ├── minRemoveToMakeValid.ts
    │  │  └── minRemoveToMakeValid.py
+   │  ├── 219. Contains Duplicate II
+   │  │  ├── containsNearbyDuplicate.png
+   │  │  └── containsNearbyDuplicate.py
    │  ├── 217. Contains Duplicate
    │  │  ├── containsDuplicate.png
    │  │  └── containsDuplicate.py
    │  ├── 175. Combine Two Tables
    │  │  ├── combineTwoTables.png
    │  │  └── combineTwoTables.sql
+   │  ├── 290. Word Pattern
+   │  │  ├── wordPattern.png
+   │  │  └── wordPattern.py
+   │  ├── 100. Same Tree
+   │  │  ├── isSameTree.py
+   │  │  └── isSameTree.png
+   │  ├── 242. Valid Anagram
+   │  │  ├── isAnagram.png
+   │  │  └── isAnagram.py
    │  ├── 136. Single Number
    │  │  ├── singleNumber.png
    │  │  ├── singleNumber.py
@@ -75,24 +109,39 @@
    │  │  ├── longestCommonPrefix.png
    │  │  ├── longestCommonPrefix.py
    │  │  └── longestCommonPrefix.go
+   │  ├── 26. Remove Duplcates from Sorted Array
+   │  │  ├── removeDuplicates.png
+   │  │  └── removeDuplicates.py
    │  ├── 560. Subarray Sum Equals K
    │  │  ├── subarraySum.py
    │  │  └── subarraySum.png
    │  ├── 1071. Greatest Common Divisor of Strings
    │  │  ├── gcdOfStrings.py
    │  │  └── gcdOfStrings.png
+   │  ├── 205. Isomorphic Strings
+   │  │  ├── isIsomorphic.png
+   │  │  └── isIsomorphic.py
    │  ├── 43. Multiply Strings 
    │  │  ├── multiply.py
    │  │  └── multiply.png
    │  ├── 238. Product of Array Except Self
    │  │  ├── productExceptSelf.png
    │  │  └── productExceptSelf.py
+   │  ├── 383. Ransom Note
+   │  │  ├── canConstruct.png
+   │  │  └── canConstruct.py
+   │  ├── 80. Remove Duplicates from Sorted Array II
+   │  │  ├── removeDuplicates.png
+   │  │  └── removeDuplicates.py
    │  ├── 151. Reverse Words in a String
    │  │  ├── reverseWords.py
    │  │  └── reverseWords.png
    │  ├── 128. Longest Consecutive Sequence
    │  │  ├── longestConsecutive.py
    │  │  └── longestConsecutive.png
+   │  ├── 71. Simplify Path
+   │  │  ├── simplifyPath.png
+   │  │  └── simplifyPath.py
    │  ├── 5. Longest Palindromic Substring
    │  │  ├── longestPalindrome.py
    │  │  └── longestPalindrome.png
@@ -134,9 +183,15 @@
    │  ├── 560. Subarray Sum Equals K
    │  │  ├── subarraySum.py
    │  │  └── subarraySum.png
-   │  └── 1071. Greatest Common Divisor of Strings
-   │    ├── gcdOfStrings.py
-   │    └── gcdOfStrings.png
+   │  ├── 1071. Greatest Common Divisor of Strings
+   │  │  ├── gcdOfStrings.py
+   │  │  └── gcdOfStrings.png
+   │  ├── 71. Simplify Path
+   │  │  ├── simplifyPath.png
+   │  │  └── simplifyPath.py
+   │  └── 5. Longest Palindromic Substring
+   │    ├── longestPalindrome.py
+   │    └── longestPalindrome.png
   ├── README.md
   ├── DesignPatterns
    │  ├── Creational
