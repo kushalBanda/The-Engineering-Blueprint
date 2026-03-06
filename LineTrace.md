@@ -1,9 +1,9 @@
 # LineTrace Codebase Analysis
 
 ### File Structure Summary
-- Total Files: 203
-- Total Directories: 93
-- File Extensions: .md: 16, .png: 114, .py: 65, .java: 1, .go: 2, .ts: 3, .sql: 1
+- Total Files: 209
+- Total Directories: 96
+- File Extensions: .md: 16, .png: 117, .py: 68, .java: 1, .go: 2, .ts: 3, .sql: 1
 
 ### Directory Tree
 ```
@@ -49,6 +49,9 @@
    │  ├── 700. Search in a Binary Search Tree
    │  │  ├── searchBST.png
    │  │  └── searchBST.py
+   │  ├── 134. Gas Station
+   │  │  ├── canCompleteCircuit.png
+   │  │  └── canCompleteCircuit.py
    │  ├── 1. Two Sum
    │  │  ├── twoSum.png
    │  │  └── twoSum.py
@@ -67,6 +70,9 @@
    │  ├── 392. Is Subsequence
    │  │  ├── isSubsequence.png
    │  │  └── isSubsequence.py
+   │  ├── 122. Best Time to Buy and Sell Stock II
+   │  │  ├── maxProfit.png
+   │  │  └── maxProfit.py
    │  ├── 680. Valid Palindrome II
    │  │  ├── validPalindrome.py
    │  │  └── validPalindrome.png
@@ -180,6 +186,9 @@
    │  │  ├── majorityElement.py
    │  │  ├── majorityElement.png
    │  │  └── majorElement_2.py
+   │  ├── 134. Gas Station
+   │  │  ├── canCompleteCircuit.png
+   │  │  └── canCompleteCircuit.py
    │  ├── 121. Best Time to Buy and Sell Stock
    │  │  ├── maxProfit.png
    │  │  └── maxProfit.py
