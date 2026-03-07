@@ -1,9 +1,9 @@
 # LineTrace Codebase Analysis
 
 ### File Structure Summary
-- Total Files: 209
-- Total Directories: 96
-- File Extensions: .md: 16, .png: 117, .py: 68, .java: 1, .go: 2, .ts: 3, .sql: 1
+- Total Files: 215
+- Total Directories: 99
+- File Extensions: .md: 16, .png: 120, .py: 71, .java: 1, .go: 2, .ts: 3, .sql: 1
 
 ### Directory Tree
 ```
@@ -52,6 +52,9 @@
    │  ├── 134. Gas Station
    │  │  ├── canCompleteCircuit.png
    │  │  └── canCompleteCircuit.py
+   │  ├── 49. Group Anagrams
+   │  │  ├── groupAnagrams.py
+   │  │  └── groupAnagrams.png
    │  ├── 1. Two Sum
    │  │  ├── twoSum.png
    │  │  └── twoSum.py
@@ -182,6 +185,9 @@
    │  │    └── Modelling (Part-1).png
    │  └── Harmful Content Detection
   ├── reCode
+   │  ├── 15. 3Sum
+   │  │  ├── 3Sum.png
+   │  │  └── 3Sum.py
    │  ├── 169. Majority Element
    │  │  ├── majorityElement.py
    │  │  ├── majorityElement.png
@@ -189,6 +195,9 @@
    │  ├── 134. Gas Station
    │  │  ├── canCompleteCircuit.png
    │  │  └── canCompleteCircuit.py
+   │  ├── 49. Group Anagrams
+   │  │  ├── groupAnagrams.py
+   │  │  └── groupAnagrams.png
    │  ├── 121. Best Time to Buy and Sell Stock
    │  │  ├── maxProfit.png
    │  │  └── maxProfit.py
