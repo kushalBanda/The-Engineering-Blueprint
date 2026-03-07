@@ -4,7 +4,7 @@
 
 ![Language](https://img.shields.io/badge/Language-Python%203-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Problems Solved](https://img.shields.io/badge/Solved-47-green?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Solved-48-green?style=for-the-badge)
 ![Patterns](https://img.shields.io/badge/Patterns-2-blueviolet?style=for-the-badge)
 ![Systems](https://img.shields.io/badge/Systems-2-ff69b4?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
@@ -68,6 +68,7 @@ A collection of strictly typed, efficient solutions.
 | 0026 | **Remove Duplicates from Sorted Array** | 🟢 Easy | [Python](./LeetCode/26.%20Remove%20Duplcates%20from%20Sorted%20Array/removeDuplicates.py) | Array, Two Pointers |
 | 0027 | **Remove Element** | 🟢 Easy | [Python](./LeetCode/27.%20Remove%20Element/removeElement.py) | Array, Two Pointers |
 | 0043 | **Multiply Strings** | 🟡 Medium | [Python](./LeetCode/43.%20Multiply%20Strings%20/multiply.py) | Math, String, Simulation |
+| 0049 | **Group Anagrams** | 🟡 Medium | [Python](./LeetCode/49.%20Group%20Anagrams/groupAnagrams.py) | Array, Hash Table, String, Sorting |
 | 0053 | **Maximum Subarray** | 🟡 Medium | [Python](./LeetCode/53.%20Maximum%20Subarray/maxSubArray.py), [Java](./LeetCode/53.%20Maximum%20Subarray/maxSubArray.java) | Array, Dynamic Programming, Divide and Conquer |
 | 0058 | **Length of Last Word** | 🟢 Easy | [Python](./LeetCode/58.%20Length%20of%20Last%20Word/lengthOfLastWord.py), [Go](./LeetCode/58.%20Length%20of%20Last%20Word/lengthOfLastWord.go) | String |
 | 0071 | **Simplify Path** | 🟡 Medium | [Python](./LeetCode/71.%20Simplify%20Path/simplifyPath.py) | String, Stack |
