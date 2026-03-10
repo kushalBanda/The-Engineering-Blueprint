@@ -4,7 +4,7 @@
 
 ![Language](https://img.shields.io/badge/Language-Python%203-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Problems Solved](https://img.shields.io/badge/Solved-48-green?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Solved-50-green?style=for-the-badge)
 ![Patterns](https://img.shields.io/badge/Patterns-2-blueviolet?style=for-the-badge)
 ![Systems](https://img.shields.io/badge/Systems-2-ff69b4?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
@@ -75,6 +75,7 @@ A collection of strictly typed, efficient solutions.
 | 0080 | **Remove Duplicates from Sorted Array II** | 🟡 Medium | [Python](./LeetCode/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II/removeDuplicates.py) | Array, Two Pointers |
 | 0088 | **Merge Sorted Array** | 🟢 Easy | [Python](./LeetCode/88.%20Merge%20Sorted%20Array/merge.py), [TypeScript](./LeetCode/88.%20Merge%20Sorted%20Array/merge.ts) | Array, Two Pointers, Sorting |
 | 0100 | **Same Tree** | 🟢 Easy | [Python](./LeetCode/100.%20Same%20Tree/isSameTree.py) | Tree, DFS, Binary Tree |
+| 0101 | **Symmetric Tree** | 🟢 Easy | [Python](./LeetCode/101.%20Symmetric%20Tree/isSymmetric.py) | Tree, DFS, BFS, Binary Tree |
 | 0104 | **Maximum Depth of Binary Tree** | 🟢 Easy | [Python](./LeetCode/104.%20Maximum%20Depth%20of%20Binary%20Tree/maxDepth.py) | Tree, DFS, BFS, Binary Tree |
 | 0111 | **Minimum Depth of Binary Tree** | 🟢 Easy | [Python](./LeetCode/111.%20Minimum%20Depth%20of%20Binary%20Tree/minDepth.py) | Tree, DFS, BFS, Binary Tree |
 | 0121 | **Best Time to Buy and Sell Stock** | 🟢 Easy | [Python](./LeetCode/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/maxProfit.py) | Array, Dynamic Programming |
