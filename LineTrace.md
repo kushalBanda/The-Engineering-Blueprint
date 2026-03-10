@@ -1,9 +1,9 @@
 # LineTrace Codebase Analysis
 
 ### File Structure Summary
-- Total Files: 215
-- Total Directories: 99
-- File Extensions: .md: 16, .png: 120, .py: 71, .java: 1, .go: 2, .ts: 3, .sql: 1
+- Total Files: 217
+- Total Directories: 100
+- File Extensions: .md: 16, .png: 121, .py: 72, .java: 1, .go: 2, .ts: 3, .sql: 1
 
 ### Directory Tree
 ```
@@ -86,6 +86,9 @@
    │  │  ├── minRemoveToMakeValid.png
    │  │  ├── minRemoveToMakeValid.ts
    │  │  └── minRemoveToMakeValid.py
+   │  ├── 226. Invert Binary Tree
+   │  │  ├── invertTree.png
+   │  │  └── invertTree.py
    │  ├── 219. Contains Duplicate II
    │  │  ├── containsNearbyDuplicate.png
    │  │  └── containsNearbyDuplicate.py
