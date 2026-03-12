@@ -4,7 +4,7 @@
 
 ![Language](https://img.shields.io/badge/Language-Python%203-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Problems Solved](https://img.shields.io/badge/Solved-50-green?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Solved-51-green?style=for-the-badge)
 ![Patterns](https://img.shields.io/badge/Patterns-2-blueviolet?style=for-the-badge)
 ![Systems](https://img.shields.io/badge/Systems-2-ff69b4?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
@@ -84,6 +84,7 @@ A collection of strictly typed, efficient solutions.
 | 0128 | **Longest Consecutive Sequence** | 🟡 Medium | [Python](./LeetCode/128.%20Longest%20Consecutive%20Sequence/longestConsecutive.py) | Array, Hash Table |
 | 0134 | **Gas Station** | 🟡 Medium | [Python](./LeetCode/134.%20Gas%20Station/canCompleteCircuit.py) | Array, Greedy |
 | 0136 | **Single Number** | 🟢 Easy | [Python](./LeetCode/136.%20Single%20Number/singleNumber.py), [TypeScript](./LeetCode/136.%20Single%20Number/singleNumber.ts) | Array, Hash Table, Bit Manipulation |
+| 0141 | **Linked List Cycle** | 🟢 Easy | [Python](./LeetCode/141.%20Linked%20List%20Cycle/hasCycle.py) | Hash Table, Linked List, Two Pointers |
 | 0151 | **Reverse Words in a String** | 🟡 Medium | [Python](./LeetCode/151.%20Reverse%20Words%20in%20a%20String/reverseWords.py) | String, Two Pointers |
 | 0167 | **Two Sum II - Input Array Is Sorted** | 🟡 Medium | [Python](./LeetCode/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/twoSum.py) | Array, Two Pointers |
 | 0169 | **Majority Element** | 🟢 Easy | [Python](./LeetCode/169.%20Majority%20Element/majorityElement.py) | Array, Hash Table |
