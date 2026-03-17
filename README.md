@@ -4,7 +4,7 @@
 
 ![Language](https://img.shields.io/badge/Language-Python%203-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Problems Solved](https://img.shields.io/badge/Solved-51-green?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Solved-52-green?style=for-the-badge)
 ![Patterns](https://img.shields.io/badge/Patterns-2-blueviolet?style=for-the-badge)
 ![Systems](https://img.shields.io/badge/Systems-2-ff69b4?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
@@ -65,6 +65,7 @@ A collection of strictly typed, efficient solutions.
 | 0014 | **Longest Common Prefix** | 🟢 Easy | [Python](./LeetCode/14.%20Longest%20Common%20Prefix/longestCommonPrefix.py), [Go](./LeetCode/14.%20Longest%20Common%20Prefix/longestCommonPrefix.go) | String |
 | 0015 | **3Sum** | 🟡 Medium | [Python](./LeetCode/15.%203Sum/3Sum.py) | Array, Two Pointers |
 | 0020 | **Valid Parentheses** | 🟢 Easy | [Python](./LeetCode/20.%20Valid%20Parentheses/isValid.py) | String, Stack |
+| 0021 | **Merge Two Sorted Lists** | 🟢 Easy | [Python](./LeetCode/21.%20Merge%20Two%20Sorted%20Lists/mergeTwoLists.py) | Linked List, Recursion |
 | 0026 | **Remove Duplicates from Sorted Array** | 🟢 Easy | [Python](./LeetCode/26.%20Remove%20Duplcates%20from%20Sorted%20Array/removeDuplicates.py) | Array, Two Pointers |
 | 0027 | **Remove Element** | 🟢 Easy | [Python](./LeetCode/27.%20Remove%20Element/removeElement.py) | Array, Two Pointers |
 | 0043 | **Multiply Strings** | 🟡 Medium | [Python](./LeetCode/43.%20Multiply%20Strings%20/multiply.py) | Math, String, Simulation |
